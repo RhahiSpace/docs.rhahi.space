@@ -1,0 +1,4 @@
+[submodule "RemoteLogging.jl"]
+	path = RemoteLogging.jl
+	url = https://github.com/RhahiSpace/RemoteLogging.jl.git
+	branch = gh-pages
